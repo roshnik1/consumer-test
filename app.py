@@ -15,17 +15,11 @@ from werkzeug.utils import secure_filename
 db = SQLAlchemy()
 app = Flask(__name__)
 
-DATABASE_URI = 'postgresql+psycopg2://{dbuser}:{dbpass}@{dbhost}/{dbname}'.format(
-    dbuser=os.environ['postgres'],
-    dbpass=os.environ['Password123'],
-    dbhost=os.environ['34.162.3.77:5432'],
-    dbname=os.environ['retail']
-)
-app.config["SQLALCHEMY_DATABASE_URI"] = DATABASE_URI
+app.config["SQLALCHEMY_DATABASE_URI"] = os.environ.get('DATABASE_URL')
 
 db = SQLAlchemy(app)
 migrate = Migrate(app, db)
-engine = db.create_engine(DATABASE_URI)
+engine = db.create_engine(app.config["SQLALCHEMY_DATABASE_URI"])
 Session = sessionmaker(bind = engine)
 session = Session()
 
