@@ -1,0 +1,401 @@
+HSHD_NUM,L,AGE_RANGE,MARITAL,INCOME_RANGE,HOMEOWNER,HSHD_COMPOSITION,HH_SIZE,CHILDREN
+10,True,45-54,Single,35-49K,Homeowner,1 Adult,1,null
+29,True,55-64,Married,100-150K,Homeowner,2 Adults and Kids,3,1
+53,True,55-64,Married,50-74K,Homeowner,2 Adults and Kids,3,1
+54,True,75+,Married,UNDER 35K,Homeowner,2 Adults,2,null
+60,True,45-54,Married,35-49K,Homeowner,2 Adults and Kids,5+,3+
+81,False,55-64,Married,50-74K,Homeowner,2 Adults and Kids,3,1
+92,True,55-64,Married,75-99K,Homeowner,2 Adults and Kids,3,1
+99,True,35-44,Married,75-99K,Homeowner,2 Adults and Kids,3,1
+115,True,35-44,Married,35-49K,Homeowner,2 Adults and Kids,5+,3+
+117,True,45-54,Single,150K+,Homeowner,1 Adult and Kids,5+,3+
+136,True,55-64,Married,50-74K,Homeowner,2 Adults and Kids,3,1
+139,True,55-64,Single,35-49K,Renter,Single Female,1,null
+151,False,45-54,Single,150K+,Homeowner,1 Adult,1,null
+159,True,null,null,null,null,null,null,null
+160,True,45-54,Married,100-150K,Homeowner,2 Adults and Kids,4,2
+172,True,75+,Single,UNDER 35K,Homeowner,1 Adult,1,null
+183,True,35-44,Single,50-74K,Homeowner,1 Adult and Kids,2,1
+184,True,55-64,Married,35-49K,Renter,2 Adults and Kids,3,1
+185,True,45-54,Married,100-150K,Homeowner,2 Adults and Kids,3,1
+186,False,45-54,Married,100-150K,Homeowner,2 Adults and Kids,3,1
+196,True,35-44,Married,50-74K,Renter,2 Adults and Kids,3,1
+210,True,null,null,null,null,null,null,null
+225,False,65-74,Single,35-49K,Homeowner,Single Female,1,null
+242,False,55-64,Single,50-74K,null,1 Adult and Kids,2,1
+264,True,35-44,null,UNDER 35K,Homeowner,2 Adults,2,null
+308,True,65-74,Single,50-74K,Homeowner,Single Female,1,null
+361,False,55-64,Married,100-150K,Homeowner,2 Adults and Kids,3,1
+401,True,55-64,Single,35-49K,Homeowner,1 Adult and Kids,2,1
+422,True,35-44,Single,50-74K,Homeowner,1 Adult and Kids,5+,3+
+428,True,75+,Married,35-49K,Homeowner,2 Adults,2,null
+438,True,35-44,Single,150K+,Renter,1 Adult and Kids,2,1
+453,True,19-24,Married,150K+,Homeowner,2 Adults,2,null
+455,True,45-54,Married,75-99K,Homeowner,2 Adults and Kids,5+,3+
+459,False,55-64,Married,50-74K,Homeowner,2 Adults and Kids,3,1
+482,False,35-44,Single,50-74K,Homeowner,1 Adult,1,null
+514,True,65-74,Married,75-99K,Homeowner,2 Adults and Kids,null,null
+525,True,55-64,Single,UNDER 35K,Homeowner,1 Adult and Kids,2,1
+554,False,55-64,Single,UNDER 35K,null,Single Female,1,null
+575,True,65-74,Single,50-74K,Homeowner,Single Male,1,null
+577,True,65-74,Married,UNDER 35K,Homeowner,2 Adults,2,null
+590,True,55-64,Married,35-49K,Homeowner,2 Adults and Kids,5+,3+
+594,False,35-44,Single,35-49K,Homeowner,1 Adult and Kids,2,1
+605,False,55-64,Married,UNDER 35K,Homeowner,2 Adults and Kids,3,1
+616,True,null,null,null,null,null,null,null
+631,True,65-74,Married,35-49K,Homeowner,2 Adults and Kids,null,null
+632,True,55-64,Married,50-74K,Homeowner,2 Adults,2,null
+642,False,45-54,Single,35-49K,Homeowner,1 Adult and Kids,2,1
+651,True,null,null,null,null,null,null,null
+655,False,65-74,Single,UNDER 35K,Homeowner,1 Adult,1,null
+682,False,45-54,Single,35-49K,Homeowner,1 Adult and Kids,3,2
+692,True,65-74,Married,50-74K,Homeowner,2 Adults and Kids,null,null
+720,True,65-74,Married,75-99K,Homeowner,2 Adults,2,null
+733,False,65-74,Single,UNDER 35K,Homeowner,1 Adult,1,null
+762,False,45-54,Single,50-74K,Renter,1 Adult and Kids,2,1
+764,True,35-44,Single,100-150K,Homeowner,1 Adult and Kids,2,1
+766,True,65-74,Married,UNDER 35K,Homeowner,2 Adults and Kids,3,1
+779,True,null,Single,50-74K,Homeowner,Single Female,1,null
+780,True,55-64,Married,50-74K,Homeowner,2 Adults and Kids,3,1
+789,True,55-64,Married,150K+,Homeowner,2 Adults and Kids,3,1
+794,True,75+,Single,35-49K,Homeowner,Single Female,1,null
+801,True,45-54,Married,50-74K,Homeowner,2 Adults and Kids,3,1
+808,True,75+,Married,UNDER 35K,Homeowner,2 Adults,2,null
+812,True,55-64,Married,50-74K,null,2 Adults,2,null
+815,True,55-64,Married,UNDER 35K,Homeowner,2 Adults,2,null
+826,True,45-54,Married,50-74K,Homeowner,2 Adults and Kids,5+,3+
+839,True,65-74,Single,35-49K,Homeowner,1 Adult,1,null
+845,True,45-54,Single,UNDER 35K,Renter,1 Adult and Kids,2,1
+881,True,75+,Married,35-49K,null,2 Adults,2,null
+915,True,55-64,Married,100-150K,Homeowner,2 Adults,2,null
+916,False,65-74,Married,100-150K,Homeowner,2 Adults and Kids,3,1
+918,True,55-64,null,150K+,Homeowner,2 Adults,2,null
+982,True,55-64,Married,75-99K,Homeowner,2 Adults,2,null
+984,True,45-54,Married,50-74K,Homeowner,2 Adults and Kids,3,1
+986,True,null,Single,35-49K,Renter,Single Female,1,null
+991,True,25-34,Single,50-74K,Renter,Single Male,1,null
+992,True,35-44,Single,75-99K,Renter,Single Male,1,null
+1012,False,65-74,Married,UNDER 35K,Homeowner,2 Adults and Kids,3,1
+1015,True,45-54,Single,UNDER 35K,Homeowner,1 Adult and Kids,4,3+
+1020,True,55-64,Married,150K+,Homeowner,2 Adults and Kids,4,2
+1034,True,25-34,Single,35-49K,Renter,1 Adult and Kids,5+,3+
+1080,True,45-54,Married,150K+,Homeowner,2 Adults and Kids,4,2
+1082,True,35-44,Single,UNDER 35K,Renter,Single Male,1,null
+1102,True,35-44,Married,75-99K,Homeowner,2 Adults and Kids,5+,3+
+1112,True,55-64,Married,150K+,Homeowner,2 Adults,2,null
+1120,True,45-54,Single,35-49K,Homeowner,1 Adult and Kids,2,1
+1121,False,55-64,Single,35-49K,Homeowner,1 Adult and Kids,2,1
+1122,False,55-64,Single,100-150K,Homeowner,1 Adult and Kids,4,3+
+1132,True,65-74,Single,35-49K,Homeowner,Single Female,1,null
+1137,True,35-44,Married,75-99K,Homeowner,2 Adults and Kids,4,2
+1165,True,55-64,Single,35-49K,Homeowner,Single Male,1,null
+1187,True,55-64,Married,75-99K,Homeowner,2 Adults and Kids,5+,3+
+1192,False,55-64,Single,75-99K,Homeowner,1 Adult,1,null
+1195,True,45-54,Married,35-49K,Homeowner,2 Adults and Kids,5+,3+
+1205,False,55-64,Married,50-74K,Homeowner,2 Adults and Kids,3,1
+1234,True,45-54,Married,100-150K,Homeowner,2 Adults and Kids,5+,3+
+1241,True,55-64,Married,35-49K,Homeowner,2 Adults and Kids,3,1
+1245,True,45-54,Married,100-150K,Homeowner,2 Adults and Kids,5+,3+
+1251,True,65-74,Married,50-74K,Homeowner,2 Adults,2,null
+1261,True,null,null,null,null,null,null,null
+1265,True,55-64,Married,150K+,Homeowner,2 Adults and Kids,3,1
+1270,True,45-54,Married,35-49K,Homeowner,2 Adults and Kids,5+,3+
+1275,True,null,null,null,null,null,null,null
+1277,True,55-64,Single,35-49K,Homeowner,1 Adult,1,null
+1290,True,65-74,Married,35-49K,Homeowner,2 Adults,2,null
+1301,True,45-54,Single,150K+,Renter,1 Adult and Kids,2,1
+1308,False,55-64,Single,35-49K,Homeowner,Single Male,1,null
+1349,False,45-54,Single,35-49K,Renter,Single Male,1,null
+1358,False,45-54,Single,100-150K,Homeowner,1 Adult and Kids,4,3+
+1373,True,65-74,Married,UNDER 35K,Homeowner,2 Adults and Kids,3,1
+1399,False,25-34,Single,UNDER 35K,Renter,Single Female,1,null
+1404,True,45-54,Married,100-150K,Homeowner,2 Adults,2,null
+1433,True,null,null,null,null,null,null,null
+1437,True,75+,Single,UNDER 35K,Homeowner,1 Adult,1,null
+1441,True,35-44,Married,50-74K,Homeowner,2 Adults and Kids,5+,3+
+1446,True,35-44,Married,50-74K,Homeowner,2 Adults and Kids,5+,3+
+1448,True,55-64,Married,50-74K,Homeowner,2 Adults and Kids,3,1
+1461,True,35-44,Single,50-74K,Homeowner,1 Adult and Kids,5+,3+
+1462,True,19-24,Single,50-74K,Renter,1 Adult,1,null
+1469,False,75+,null,UNDER 35K,Homeowner,2 Adults,2,null
+1470,False,null,null,null,null,null,null,null
+1473,True,75+,Married,35-49K,Homeowner,2 Adults and Kids,4,2
+1492,True,45-54,Married,35-49K,Renter,2 Adults and Kids,3,1
+1495,False,75+,Married,UNDER 35K,Homeowner,2 Adults,2,null
+1526,True,55-64,Married,50-74K,Homeowner,2 Adults and Kids,5+,3+
+1532,True,45-54,Single,100-150K,Homeowner,1 Adult and Kids,null,null
+1545,True,null,null,null,null,null,null,null
+1554,True,75+,Single,UNDER 35K,Homeowner,1 Adult,1,null
+1565,True,35-44,Married,75-99K,Homeowner,2 Adults and Kids,3,1
+1567,True,45-54,Single,UNDER 35K,Homeowner,Single Male,1,null
+1573,False,45-54,Married,100-150K,Homeowner,2 Adults and Kids,5+,3+
+1600,True,null,null,null,null,null,null,null
+1618,False,55-64,Married,100-150K,Homeowner,2 Adults,2,null
+1631,True,55-64,Single,35-49K,Homeowner,1 Adult and Kids,2,1
+1632,False,45-54,Single,150K+,Homeowner,Single Male,1,null
+1647,True,null,null,null,null,null,null,null
+1652,True,null,null,null,null,null,null,null
+1660,True,35-44,Single,100-150K,Renter,Single Female,1,null
+1661,True,null,null,null,null,null,null,null
+1662,False,65-74,Married,35-49K,Homeowner,2 Adults,2,null
+1699,True,45-54,null,150K+,Homeowner,2 Adults,2,null
+1709,True,65-74,Married,35-49K,Homeowner,2 Adults and Kids,null,null
+1729,True,45-54,Single,75-99K,Renter,1 Adult and Kids,2,1
+1747,True,55-64,Married,100-150K,Homeowner,2 Adults,2,null
+1748,True,45-54,Married,100-150K,null,2 Adults and Kids,5+,3+
+1750,True,45-54,Married,150K+,Homeowner,2 Adults and Kids,3,1
+1770,True,65-74,Married,35-49K,Homeowner,2 Adults,2,null
+1786,False,35-44,Married,50-74K,Homeowner,2 Adults and Kids,5+,3+
+1795,True,35-44,null,35-49K,Homeowner,2 Adults and Kids,5+,3+
+1797,False,35-44,Married,50-74K,Homeowner,2 Adults and Kids,3,1
+1809,True,null,null,null,null,null,null,null
+1836,True,75+,Married,35-49K,Homeowner,2 Adults,2,null
+1861,True,35-44,Single,50-74K,Renter,Single Female,1,null
+1873,True,45-54,Married,50-74K,Homeowner,2 Adults and Kids,3,1
+1885,True,35-44,Married,75-99K,Homeowner,2 Adults and Kids,4,2
+1895,True,null,null,null,null,null,null,null
+1904,True,25-34,Married,50-74K,Homeowner,2 Adults and Kids,3,1
+1914,False,55-64,Single,100-150K,Homeowner,1 Adult,1,null
+1916,False,55-64,Single,35-49K,Homeowner,Single Female,1,null
+1924,True,55-64,Single,100-150K,Homeowner,1 Adult and Kids,4,3+
+1937,True,45-54,Married,75-99K,Homeowner,2 Adults and Kids,3,1
+1949,False,null,null,null,null,null,null,null
+1963,True,45-54,Married,100-150K,Homeowner,2 Adults and Kids,5+,3+
+1990,True,55-64,Married,50-74K,Homeowner,2 Adults and Kids,3,1
+1994,True,null,null,null,null,null,null,null
+2004,True,25-34,Single,150K+,Homeowner,1 Adult and Kids,2,1
+2011,True,35-44,Single,UNDER 35K,null,1 Adult and Kids,2,1
+2017,True,45-54,Single,50-74K,Renter,1 Adult,1,null
+2019,False,35-44,Single,150K+,Homeowner,Single Male,1,null
+2022,True,35-44,Single,150K+,Homeowner,Single Male,1,null
+2024,True,null,null,null,null,null,null,null
+2027,True,null,null,null,null,null,null,null
+2066,True,25-34,Single,50-74K,null,Single Female,1,null
+2077,True,35-44,Single,75-99K,Homeowner,Single Male,1,null
+2102,True,45-54,Married,150K+,Homeowner,2 Adults and Kids,3,1
+2143,True,45-54,Single,100-150K,Homeowner,1 Adult and Kids,4,3+
+2148,True,35-44,Single,35-49K,Homeowner,1 Adult and Kids,2,1
+2150,True,55-64,Married,35-49K,Homeowner,2 Adults,2,null
+2175,True,45-54,Single,50-74K,Homeowner,1 Adult and Kids,4,3+
+2178,True,25-34,Single,UNDER 35K,Homeowner,Single Female,1,null
+2189,False,65-74,Married,UNDER 35K,Homeowner,2 Adults,2,null
+2200,True,65-74,Married,UNDER 35K,Homeowner,2 Adults,2,null
+2211,False,45-54,Single,50-74K,Homeowner,Single Female,1,null
+2225,False,35-44,Single,35-49K,Homeowner,1 Adult and Kids,null,null
+2232,False,65-74,Married,UNDER 35K,Homeowner,2 Adults and Kids,3,1
+2244,True,null,Single,35-49K,Renter,Single Female,1,null
+2260,True,null,null,null,null,null,null,null
+2264,True,null,null,null,null,null,null,null
+2291,True,null,null,null,null,null,null,null
+2306,True,75+,Married,50-74K,Homeowner,2 Adults,2,null
+2319,False,75+,Married,50-74K,Homeowner,2 Adults,2,null
+2320,False,55-64,Married,75-99K,Homeowner,2 Adults,2,null
+2322,True,null,null,null,null,null,null,null
+2325,False,null,null,null,null,null,null,null
+2337,False,35-44,Married,35-49K,Homeowner,2 Adults and Kids,3,1
+2345,True,55-64,Married,35-49K,Renter,2 Adults and Kids,3,1
+2371,True,55-64,Married,150K+,Homeowner,2 Adults and Kids,3,1
+2375,False,65-74,Married,UNDER 35K,Homeowner,2 Adults,2,null
+2379,False,75+,Married,35-49K,Homeowner,2 Adults,2,null
+2391,False,55-64,Married,75-99K,Renter,2 Adults and Kids,5+,3+
+2406,False,65-74,Married,UNDER 35K,Homeowner,2 Adults and Kids,3,1
+2420,True,55-64,Married,75-99K,Homeowner,2 Adults,2,null
+2429,True,55-64,Married,150K+,Homeowner,2 Adults and Kids,3,1
+2433,True,45-54,null,150K+,Homeowner,2 Adults and Kids,3,1
+2435,True,null,null,null,null,null,null,null
+2436,True,55-64,Single,150K+,Homeowner,Single Male,1,null
+2442,True,65-74,Single,35-49K,Homeowner,Single Female,1,null
+2453,True,35-44,Single,35-49K,Homeowner,1 Adult and Kids,null,null
+2454,False,45-54,Married,50-74K,Homeowner,2 Adults and Kids,3,1
+2504,True,65-74,Married,UNDER 35K,Homeowner,2 Adults,2,null
+2507,True,45-54,Married,35-49K,Homeowner,2 Adults and Kids,3,1
+2512,True,35-44,Single,100-150K,Homeowner,1 Adult and Kids,5+,3+
+2519,True,55-64,Married,75-99K,Homeowner,2 Adults and Kids,3,1
+2531,True,null,null,null,null,null,null,null
+2541,True,55-64,Single,50-74K,Homeowner,1 Adult and Kids,2,1
+2555,True,55-64,Married,100-150K,Homeowner,2 Adults,2,null
+2572,True,65-74,Married,100-150K,Homeowner,2 Adults,2,null
+2573,True,45-54,Single,100-150K,Homeowner,1 Adult and Kids,2,1
+2575,True,55-64,Single,35-49K,Homeowner,Single Female,1,null
+2584,True,75+,Single,35-49K,Homeowner,1 Adult,1,null
+2607,True,null,null,null,null,null,null,null
+2617,False,35-44,Single,100-150K,Homeowner,1 Adult and Kids,2,1
+2629,True,75+,Married,75-99K,Homeowner,2 Adults and Kids,3,1
+2630,False,null,null,null,null,null,null,null
+2638,True,55-64,Married,35-49K,Homeowner,2 Adults,2,null
+2639,True,45-54,Married,75-99K,Homeowner,2 Adults and Kids,4,2
+2652,False,55-64,Single,75-99K,Homeowner,Single Male,1,null
+2654,True,65-74,Married,UNDER 35K,Homeowner,2 Adults and Kids,5+,3+
+2685,False,35-44,null,35-49K,Homeowner,2 Adults and Kids,3,1
+2707,False,65-74,Single,UNDER 35K,Homeowner,Single Male,1,null
+2710,True,null,Married,50-74K,null,2 Adults,2,null
+2735,False,65-74,Single,UNDER 35K,Homeowner,1 Adult,1,null
+2745,True,65-74,Single,50-74K,Homeowner,1 Adult,1,null
+2756,True,65-74,Married,50-74K,Homeowner,2 Adults and Kids,null,null
+2762,True,25-34,Single,50-74K,Renter,Single Female,1,null
+2780,True,55-64,Single,35-49K,Renter,1 Adult and Kids,5+,3+
+2781,True,55-64,Married,50-74K,Homeowner,2 Adults and Kids,3,1
+2822,True,55-64,Married,100-150K,Homeowner,2 Adults and Kids,5+,3+
+2838,True,55-64,Married,75-99K,Homeowner,2 Adults,2,null
+2844,True,55-64,Single,35-49K,Homeowner,1 Adult,1,null
+2847,True,45-54,Married,150K+,Homeowner,2 Adults and Kids,4,2
+2874,True,55-64,Married,150K+,null,2 Adults and Kids,3,1
+2921,False,45-54,Single,100-150K,Homeowner,1 Adult and Kids,4,3+
+2934,True,45-54,Single,100-150K,Homeowner,1 Adult and Kids,3,2
+2937,True,45-54,Single,150K+,Homeowner,1 Adult and Kids,2,1
+2938,True,55-64,Married,150K+,Homeowner,2 Adults and Kids,4,2
+2986,False,75+,Married,UNDER 35K,Homeowner,2 Adults and Kids,3,1
+2990,True,35-44,Single,UNDER 35K,Homeowner,1 Adult and Kids,2,1
+2997,True,55-64,Married,75-99K,Homeowner,2 Adults and Kids,4,2
+3003,True,25-34,Single,100-150K,Homeowner,1 Adult and Kids,2,1
+3004,True,75+,Married,35-49K,Homeowner,2 Adults,2,null
+3014,True,55-64,Married,UNDER 35K,Homeowner,2 Adults and Kids,4,2
+3022,True,45-54,Married,100-150K,Homeowner,2 Adults and Kids,4,2
+3030,False,55-64,Married,50-74K,Homeowner,2 Adults,2,null
+3044,True,55-64,Single,75-99K,Homeowner,1 Adult,1,null
+3049,False,null,null,null,null,null,null,null
+3060,True,55-64,Married,100-150K,Homeowner,2 Adults and Kids,3,1
+3105,True,25-34,Single,75-99K,Homeowner,1 Adult and Kids,null,null
+3111,True,45-54,Married,100-150K,Homeowner,2 Adults and Kids,5+,3+
+3151,True,65-74,Married,100-150K,null,2 Adults,2,null
+3163,True,45-54,Single,75-99K,Homeowner,Single Male,1,null
+3164,True,55-64,Married,75-99K,Homeowner,2 Adults and Kids,4,2
+3186,True,55-64,Married,150K+,Homeowner,2 Adults,2,null
+3205,False,65-74,Married,50-74K,Homeowner,2 Adults,2,null
+3214,True,75+,Married,100-150K,Homeowner,2 Adults,2,null
+3220,True,35-44,Married,75-99K,Homeowner,2 Adults and Kids,5+,3+
+3232,False,65-74,Married,50-74K,Homeowner,2 Adults,2,null
+3243,True,25-34,Single,50-74K,Renter,Single Female,1,null
+3246,True,45-54,Married,150K+,Homeowner,2 Adults and Kids,3,1
+3247,False,55-64,Married,75-99K,Homeowner,2 Adults and Kids,4,2
+3257,True,45-54,Married,75-99K,Homeowner,2 Adults and Kids,4,2
+3267,True,45-54,Married,100-150K,Homeowner,2 Adults and Kids,5+,3+
+3274,False,55-64,Married,150K+,Homeowner,2 Adults,2,null
+3314,True,35-44,Single,75-99K,Homeowner,1 Adult and Kids,3,2
+3319,True,75+,Married,50-74K,Homeowner,2 Adults,2,null
+3358,True,55-64,Married,50-74K,Homeowner,2 Adults and Kids,3,1
+3398,True,25-34,Single,100-150K,Homeowner,1 Adult and Kids,2,1
+3411,True,35-44,Married,100-150K,Homeowner,2 Adults and Kids,5+,3+
+3418,False,35-44,Single,50-74K,Homeowner,1 Adult and Kids,5+,3+
+3442,False,65-74,null,UNDER 35K,Homeowner,2 Adults,2,null
+3445,False,null,null,null,null,null,null,null
+3467,False,45-54,Single,50-74K,Renter,Single Female,1,null
+3474,False,55-64,Married,100-150K,Homeowner,2 Adults and Kids,3,1
+3476,True,65-74,Married,100-150K,Homeowner,2 Adults,2,null
+3486,True,65-74,Married,100-150K,Homeowner,2 Adults and Kids,3,1
+3496,True,45-54,Married,50-74K,Homeowner,2 Adults and Kids,3,1
+3523,True,35-44,Married,75-99K,Homeowner,2 Adults and Kids,4,2
+3551,True,45-54,null,75-99K,Homeowner,2 Adults,2,null
+3582,True,65-74,null,UNDER 35K,Homeowner,1 Adult,1,null
+3603,True,75+,Married,UNDER 35K,Homeowner,2 Adults and Kids,null,null
+3606,False,25-34,Single,50-74K,Homeowner,Single Male,1,null
+3608,False,65-74,Married,UNDER 35K,Homeowner,2 Adults,2,null
+3614,True,35-44,Married,75-99K,Homeowner,2 Adults and Kids,3,1
+3635,True,75+,Married,UNDER 35K,Homeowner,2 Adults and Kids,null,null
+3655,True,45-54,null,50-74K,Homeowner,2 Adults,2,null
+3670,True,25-34,Single,50-74K,Renter,1 Adult and Kids,2,1
+3672,True,35-44,Married,50-74K,Homeowner,2 Adults and Kids,3,1
+3681,True,null,null,null,null,null,null,null
+3687,False,75+,Single,50-74K,Homeowner,1 Adult,1,null
+3689,True,55-64,Married,75-99K,Homeowner,2 Adults and Kids,null,null
+3703,True,65-74,Married,75-99K,Homeowner,2 Adults,2,null
+3733,False,45-54,Married,50-74K,Homeowner,2 Adults and Kids,5+,3+
+3739,True,45-54,Married,50-74K,Homeowner,2 Adults and Kids,5+,3+
+3755,False,65-74,Married,35-49K,Homeowner,2 Adults and Kids,3,1
+3758,True,45-54,Single,50-74K,Homeowner,Single Male,1,null
+3784,True,25-34,Single,50-74K,Homeowner,1 Adult and Kids,3,2
+3785,True,25-34,Single,35-49K,Homeowner,Single Male,1,null
+3800,False,55-64,Single,50-74K,Homeowner,Single Female,1,null
+3809,True,45-54,Married,150K+,Homeowner,2 Adults and Kids,4,2
+3811,True,null,null,null,null,null,null,null
+3819,False,25-34,Single,UNDER 35K,null,Single Male,1,null
+3820,True,45-54,Single,50-74K,Homeowner,1 Adult and Kids,2,1
+3840,True,55-64,Married,UNDER 35K,Homeowner,2 Adults and Kids,4,2
+3842,False,75+,Married,50-74K,Homeowner,2 Adults and Kids,3,1
+3881,False,null,null,null,null,null,null,null
+3889,True,55-64,Married,50-74K,Homeowner,2 Adults and Kids,4,2
+3893,True,75+,Single,UNDER 35K,Homeowner,Single Male,1,null
+3895,True,null,null,null,null,null,null,null
+3904,True,35-44,Single,50-74K,Homeowner,1 Adult and Kids,2,1
+3940,True,null,null,null,null,null,null,null
+3964,True,45-54,Married,100-150K,Homeowner,2 Adults and Kids,3,1
+3969,True,45-54,Married,50-74K,Homeowner,2 Adults,2,null
+3977,True,null,null,null,null,null,null,null
+3988,False,65-74,Single,UNDER 35K,Homeowner,1 Adult,1,null
+3993,True,45-54,Married,75-99K,Homeowner,2 Adults and Kids,3,1
+4005,True,45-54,Single,50-74K,Homeowner,Single Female,1,null
+4011,True,null,Single,75-99K,null,Single Female,1,null
+4017,False,null,null,null,null,null,null,null
+4037,True,65-74,Married,UNDER 35K,Homeowner,2 Adults,2,null
+4057,True,25-34,Single,75-99K,Homeowner,1 Adult and Kids,2,1
+4061,True,45-54,Single,75-99K,Renter,Single Male,1,null
+4062,True,55-64,Married,75-99K,Homeowner,2 Adults and Kids,4,2
+4065,True,25-34,Single,35-49K,Homeowner,Single Male,1,null
+4078,True,19-24,Single,150K+,Homeowner,1 Adult and Kids,2,1
+4085,True,25-34,Single,UNDER 35K,Homeowner,Single Male,1,null
+4105,True,55-64,Single,35-49K,Renter,Single Male,1,null
+4126,True,45-54,Single,100-150K,Homeowner,1 Adult and Kids,2,1
+4146,True,65-74,null,UNDER 35K,Renter,Single Male,1,null
+4159,False,65-74,Single,100-150K,Homeowner,1 Adult,1,null
+4171,True,35-44,Single,UNDER 35K,null,1 Adult and Kids,3,2
+4183,True,35-44,Married,75-99K,Homeowner,2 Adults and Kids,4,2
+4214,True,19-24,Single,50-74K,Renter,1 Adult,1,null
+4218,True,35-44,Single,75-99K,Homeowner,Single Female,1,null
+4249,True,65-74,Married,UNDER 35K,Homeowner,2 Adults,2,null
+4264,True,null,null,null,null,null,null,null
+4272,True,45-54,Single,35-49K,Renter,1 Adult and Kids,3,2
+4293,True,45-54,Single,75-99K,Renter,1 Adult and Kids,null,null
+4351,True,25-34,Single,35-49K,Renter,Single Female,1,null
+4363,False,55-64,Married,150K+,Homeowner,2 Adults,2,null
+4366,False,55-64,Single,50-74K,Homeowner,1 Adult,1,null
+4372,True,75+,Married,50-74K,Homeowner,2 Adults,2,null
+4405,True,null,null,null,null,null,null,null
+4406,False,null,null,null,null,null,null,null
+4414,True,35-44,Single,35-49K,Homeowner,Single Male,1,null
+4420,True,25-34,Single,50-74K,Renter,1 Adult,1,null
+4432,True,45-54,Single,100-150K,null,Single Male,1,null
+4439,True,35-44,Single,100-150K,Homeowner,Single Male,1,null
+4453,False,75+,Married,50-74K,Homeowner,2 Adults and Kids,5+,3+
+4457,False,45-54,Single,75-99K,Homeowner,1 Adult and Kids,2,1
+4458,False,45-54,Married,150K+,Homeowner,2 Adults and Kids,5+,3+
+4498,False,25-34,Single,50-74K,Homeowner,Single Female,1,null
+4506,True,45-54,Married,150K+,Homeowner,2 Adults and Kids,4,2
+4552,True,null,null,null,null,null,null,null
+4568,True,null,null,null,null,null,null,null
+4570,True,null,null,null,null,null,null,null
+4587,False,75+,Single,UNDER 35K,Homeowner,Single Female,1,null
+4594,False,null,null,null,null,null,null,null
+4603,False,35-44,Married,50-74K,Homeowner,2 Adults,2,null
+4604,True,25-34,Single,100-150K,Homeowner,Single Female,1,null
+4606,False,75+,Single,35-49K,Homeowner,Single Male,1,null
+4607,True,null,null,null,null,null,null,null
+4614,True,null,null,null,null,null,null,null
+4623,True,25-34,Married,50-74K,null,2 Adults,2,null
+4713,True,45-54,Single,100-150K,Homeowner,1 Adult and Kids,5+,3+
+4716,False,45-54,Single,75-99K,Homeowner,Single Female,1,null
+4719,True,75+,Married,UNDER 35K,Homeowner,2 Adults,2,null
+4724,False,65-74,Single,50-74K,Homeowner,Single Male,1,null
+4725,True,75+,Married,UNDER 35K,Homeowner,2 Adults,2,null
+4740,True,25-34,Single,UNDER 35K,Homeowner,1 Adult and Kids,2,1
+4745,False,35-44,Single,UNDER 35K,Renter,Single Female,1,null
+4753,True,null,null,null,null,null,null,null
+4757,False,25-34,Single,100-150K,Homeowner,1 Adult,1,null
+4766,True,45-54,Married,75-99K,Homeowner,2 Adults and Kids,3,1
+4774,True,25-34,Married,100-150K,Homeowner,2 Adults and Kids,3,1
+4778,True,65-74,Single,UNDER 35K,Homeowner,1 Adult and Kids,3,2
+4809,True,null,null,null,null,null,null,null
+4813,True,45-54,Single,75-99K,Homeowner,Single Male,1,null
+4816,True,45-54,Married,50-74K,Renter,2 Adults,2,null
+4823,True,null,null,null,null,null,null,null
+4836,True,null,null,null,null,null,null,null
+4851,False,null,null,null,null,null,null,null
+4857,True,65-74,Married,UNDER 35K,Homeowner,2 Adults and Kids,4,2
+4878,False,65-74,Married,35-49K,Homeowner,2 Adults,2,null
+4879,True,null,Single,75-99K,Homeowner,Single Male,1,null
+4897,False,null,null,null,null,null,null,null
+4904,True,null,null,null,null,null,null,null
+4909,False,45-54,Married,100-150K,Homeowner,2 Adults and Kids,4,2
+4974,True,45-54,Married,50-74K,Homeowner,2 Adults,2,null
+4982,True,null,null,null,null,null,null,null
+4987,True,null,null,null,null,null,null,null
+4989,False,55-64,Single,100-150K,Renter,1 Adult,1,null

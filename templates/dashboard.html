@@ -1,0 +1,33 @@
+{% extends 'base.html' %} {% block title %}Dashboard{% endblock %} {% block
+content %}
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js"></script>
+
+<div class="d-flex flex-column flex-grow-1">
+  <h2 class="fw-bold text-center mt-4">Hello, {{ name }}</h2>
+  <h2 class="fw-bold text-center">Retail KPI Dashboard - Metrics</h2>
+  <div class="flex-grow-1 align-self-center p-5 pt-3 d-flex align-items-center">
+    <div class="d-flex flex-column">
+      <div id="sales_graph" class="chart">
+        <script>
+          var graphs ={{ sales_graph | safe }};
+          Plotly.plot("sales_graph", graphs, {});
+        </script>
+      </div>
+      <div id="region_graph" class="chart">
+        <script>
+          var graphs ={{ region_graph | safe }};
+          Plotly.plot("region_graph", graphs, {});
+        </script>
+      </div>
+    </div>
+    <div id="commodity_graph" class="chart">
+      <script>
+        var graphs ={{ commodity_graph | safe }};
+        Plotly.plot("commodity_graph", graphs, {});
+      </script>
+    </div>
+  </div>
+</div>
+
+{% endblock %}

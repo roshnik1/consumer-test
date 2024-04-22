@@ -1,0 +1,37 @@
+{% extends 'base.html' %} {% block title %}Upload New Data{% endblock %} {%
+block content %}
+<div class="d-flex flex-column flex-grow-1">
+  <h2 class="fw-bold text-center mt-4">Hello, {{name}}</h2>
+  <div class="align-self-center d-flex flex-column align-items-center">
+    <form
+      method="POST"
+      action="/uploader"
+      enctype="multipart/form-data"
+      class="d-flex flex-column align-items-center"
+    >
+      <label class="text-center my-4"
+        >Select new .csv file to upload additional data:</label
+      >
+      <input type="file" name="file" class="mb-4" />
+      <button
+        type="submit"
+        value="Submit"
+        class="btn btn-sm btn-primary btn-block"
+        formaction="{{ url_for('uploader')}}"
+      >
+        Upload
+      </button>
+    </form>
+    <p class="p-5 w-25 text-center">
+      After uploading your file, please go to the "Search Households" page and
+      look for your HOUSE_NUM in the dropdown list.
+    </p>
+    <p class="p-5 pt-0 w-25 text-center">
+      When uploading a CSV, please ensure that all rows from the tables
+      Households, Transactions, and Products are present. The system may fail to
+      read your file if all columns are not included (see the Example Data Pull
+      for HH #0001 in the assignment write-up for a list of all columns)
+    </p>
+  </div>
+</div>
+{% endblock %}

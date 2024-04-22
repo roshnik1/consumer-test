@@ -1,0 +1,41 @@
+{% extends 'base.html' %} {% block title %}Login{% endblock %} {% block content
+%} {% block navbar %}{% endblock %}
+<div class="h-100 d-flex flex-column align-items-center justify-content-center">
+  <h1 class="display-6 fw-bold text-primary text-center">Welcome to Azure</h1>
+  <h1 class="display-6 fw-bold text-primary text-center mb-4">
+    CS5165 Final Project
+  </h1>
+  <form
+    class="d-flex flex-column align-items-center"
+    method="post"
+    action="{{url_for('dashboard')}}"
+  >
+    <div class="input-group mb-3">
+      <input
+        id="email"
+        name="email"
+        type="email"
+        class="form-control"
+        placeholder="Email"
+        required
+      />
+    </div>
+    <div class="input-group mb-3">
+      <input
+        id="name"
+        name="name"
+        type="text"
+        class="form-control"
+        placeholder="Username"
+        required
+      />
+    </div>
+    <div class="input-group mb-3">
+      <input type="password" class="form-control" placeholder="Password" />
+    </div>
+    <button type="submit" class="btn btn-primary btn-lg px-4 gap-3">
+      Login
+    </button>
+  </form>
+</div>
+{% endblock %}

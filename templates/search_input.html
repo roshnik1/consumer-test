@@ -1,0 +1,17 @@
+{% extends 'base.html' %} {% block title %}Search Data Pull{% endblock %} {%
+block content %}
+<div class="d-flex flex-column flex-grow-1">
+  <h2 class="fw-bold text-center mt-4">Hello, {{name}}</h2>
+    <div class="align-self-center">
+        <form method="POST" action="/search_pull">
+            <label class="text-center mt-4">Select household to return a data pull from:</label>
+            <select name="hh">
+                {% for hh in hhs %}
+                <option value="{{ hh }}">{{ hh }}</option>
+                {% endfor %}
+            </select>
+            <button type="submit" value="Submit" class="btn btn-sm btn-primary btn-block" formaction="{{ url_for('search_pull')}}">Search</button>
+        </form>
+    </div>
+</div>
+{% endblock %}
