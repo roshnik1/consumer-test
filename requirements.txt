@@ -1,0 +1,9 @@
+Flask==2.2.2
+Flask-SQLAlchemy
+psycopg2
+python-dotenv
+SQLAlchemy
+flask_migrate
+flask_wtf
+Pandas
+plotly
